@@ -2,9 +2,7 @@
 - 👀 I’m interested in nature, animals (birds), religion
 - 🌱 I’m currently learning about DevOps
 - 💞️ I’m married 
-- 📫 How to reach me I live on the moon 
-- 😄 Pronouns: I'm female and feminine 
-- ⚡ Fun fact: 
+- 📫 I live on the moon 
 
 <!---
 lala77-oss/lala77-oss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
